@@ -118,3 +118,6 @@ yarn-debug.log*
 .pgpass
 pg_hba.conf
 postgresql.conf
+
+/app/assets/builds/*
+!/app/assets/builds/.keep
