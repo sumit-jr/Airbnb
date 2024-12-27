@@ -13,6 +13,7 @@ gem "solid_cache"
 gem "solid_queue"
 gem "solid_cable"
 gem "stimulus-rails"
+gem "tailwindcss-rails", "~> 3.0"
 gem "turbo-rails"
 gem "thruster", require: false
 gem "tzinfo-data", platforms: %i[ windows jruby ]
@@ -26,3 +27,5 @@ end
 group :development do
   gem "web-console"
 end
+
+
