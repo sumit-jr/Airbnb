@@ -7,6 +7,7 @@ gem "faker", "~> 3.4", ">= 3.4.2"
 gem "importmap-rails"
 gem "jbuilder"
 gem "kamal", require: false
+gem "money-rails", "~> 1.12"
 gem "propshaft"
 gem "pg", "~> 1.1"
 gem "puma", ">= 5.0"
